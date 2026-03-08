@@ -114,7 +114,7 @@ header .header-intro {
 
 .feature-card > h2 {
   font-weight: var(--font-weight-bold);
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   margin-bottom: var(--space-sm);
 }
 
