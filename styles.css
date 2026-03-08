@@ -53,7 +53,7 @@ main {
   justify-content: center;
   align-items: center;
 
-  padding: 6rem 1rem;
+  padding: 6.2rem 1rem;
 }
 
 h1 {
@@ -121,7 +121,7 @@ header .header-intro {
 .feature-card > p {
   color: var(--color-muted);
   margin-bottom: var(--space-xl);
-  font-size: 1.2rem;
+  font-size: 1.05rem;
 }
 
 .feature-card img {
