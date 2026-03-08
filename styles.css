@@ -53,7 +53,7 @@ main {
   justify-content: center;
   align-items: center;
 
-  padding: 7rem 1rem;
+  padding: 6rem 1rem;
 }
 
 h1 {
@@ -127,6 +127,7 @@ header .header-intro {
   width: auto;
   align-self: flex-end;
   margin-top: auto;
+  max-width: 64px;
 }
 
 .feature-card::before {
