@@ -121,6 +121,7 @@ header .header-intro {
 .feature-card > p {
   color: var(--color-muted);
   margin-bottom: var(--space-xl);
+  font-size: 1.2rem;
 }
 
 .feature-card img {
